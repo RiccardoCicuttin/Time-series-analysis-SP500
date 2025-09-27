@@ -10,13 +10,13 @@ On this project I explored the daily **adjusted close prices** of six S&P500 con
 ---
 
 ## 📌 Main Objectives
-- Perform **exploratory data analysis (EDA)** on daily and log returns.  
+- Perform **exploratory data analysis** on daily and log returns.  
 - Investigate **correlation dynamics** across different horizons (6M, 1Y, 5Y, 10Y).  
 - Test **stationarity** and apply **SARIMA models** on log-prices.  
 - Evaluate **CAPM and Fama–French 3-factor regressions** at the monthly frequency.  
 - Illustrate **portfolio construction** using:
   - Monte Carlo simulation of random weights,  
-  - The **Markowitz minimum-variance framework**.
+  -**Markowitz minimum-variance framework**.
 
 ---
 
