@@ -16,7 +16,7 @@ On this project I explored the daily **adjusted close prices** of six S&P500 con
 - Evaluate **CAPM and Fama–French 3-factor regressions** at the monthly frequency.  
 - Illustrate **portfolio construction** using:
   - Monte Carlo simulation of random weights,  
-  -**Markowitz minimum-variance framework**.
+  - **Markowitz minimum-variance framework**.
 
 ---
 
