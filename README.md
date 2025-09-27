@@ -1,1 +1,1 @@
-# Stock-time-series-analysis---S-P500-
+# Stock time series analysis - SP500
