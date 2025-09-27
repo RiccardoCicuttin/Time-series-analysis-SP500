@@ -1,6 +1,6 @@
 # Time series analysis - SP500
 This document reports on the project I carried out during my bachelor's degree in statistics, for the course "business intelligence". 
-The main objective was to use the fundamental data analysis tools offered by Python, in order to study return distributions, cross-asset correlations, time-series properties, and to build simple econometric and portfolio models that could highligth key concepts in financial statistics.
+The main objective was to use the fundamental data analysis tools offered by Python, in order to study return distributions, cross-asset correlations, time-series properties, and to build the main econometric and portfolio models that could highligth key concepts in financial statistics.
 
 On this project I explored the daily **adjusted close prices** of six S&P500 constituents across three sectors:
 - **Financials**: Goldman Sachs (GS), Visa (V)  
