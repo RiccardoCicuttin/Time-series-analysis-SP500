@@ -9,7 +9,7 @@ On this project I explored the daily **adjusted close prices** of six S&P500 con
 
 ---
 
-## 📌 Main Objectives
+##  Main Objectives
 - Perform **exploratory data analysis** on daily and log returns.  
 - Investigate **correlation dynamics** across different horizons (6M, 1Y, 5Y, 10Y).  
 - Test **stationarity** and apply **SARIMA models** on log-prices.  
@@ -20,7 +20,7 @@ On this project I explored the daily **adjusted close prices** of six S&P500 con
 
 ---
 
-## 🛠️ Methods & Tools
+##  Methods & Tools
 - **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`  
 - **Time-series**: `statsmodels`, `pmdarima`  
 - **Finance/data**: `yfinance`, `getFamaFrenchFactors`  
